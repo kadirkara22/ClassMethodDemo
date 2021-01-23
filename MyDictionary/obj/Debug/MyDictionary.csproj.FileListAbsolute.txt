@@ -1,0 +1,7 @@
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\obj\Debug\MyDictionary.csprojAssemblyReference.cache
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\KADIR\source\repos\ClassMethodDemo\MyDictionary\obj\Debug\MyDictionary.pdb
