@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{DADADA00-8FC7-493B-967F-7D601CC59FBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGame", "NewGame\NewGame.csproj", "{E819484D-B517-4303-9818-65006CE08F05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DADADA00-8FC7-493B-967F-7D601CC59FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DADADA00-8FC7-493B-967F-7D601CC59FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DADADA00-8FC7-493B-967F-7D601CC59FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E819484D-B517-4303-9818-65006CE08F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E819484D-B517-4303-9818-65006CE08F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E819484D-B517-4303-9818-65006CE08F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E819484D-B517-4303-9818-65006CE08F05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

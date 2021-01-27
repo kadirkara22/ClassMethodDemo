@@ -1,0 +1,7 @@
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\bin\Debug\NewGame.exe.config
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\bin\Debug\NewGame.exe
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\bin\Debug\NewGame.pdb
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\obj\Debug\NewGame.exe
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\obj\Debug\NewGame.pdb
+C:\Users\KADIR\source\repos\ClassMethodDemo\NewGame\obj\Debug\NewGame.csprojAssemblyReference.cache
